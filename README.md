@@ -176,7 +176,7 @@ Building backend applications, data pipelines, and AI-powered solutions with Pyt
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/harshith-b-7966a5296/">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:harshithb238@gmail.com">
