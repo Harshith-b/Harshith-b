@@ -1,9 +1,9 @@
-# Hi 👋, I'm Harshith B
+# <h2 align="center">Hi 👋, I'm Harshith B </h2>
 
-<h3 align="center">🐍 Python Developer | Full-Stack & Backend Development | Data Engineering | GenAI</h3>
+<h3 align="center">🐍 Python Developer | Backend & Full-Stack Development | GenAI</h3>
 
 <p align="center">
-Building backend applications, data pipelines, and AI-powered solutions with Python, SQL, FastAPI, and Generative AI.
+Building backend applications, full-stack solutions, and AI-powered systems using Python, FastAPI, React, SQL, and Generative AI.
 </p>
 
 <p align="center">
@@ -16,121 +16,117 @@ Building backend applications, data pipelines, and AI-powered solutions with Pyt
 
 ## 🌟 About Me
 
-- 🎓 Computer Science Engineering graduate from Don Bosco Institute of Technology, Bangalore.
-- 🐍 Interested in Python development, full-stack applications, and backend engineering.
-- ⚙️ Experienced with Python, SQL, FastAPI, PostgreSQL, and data processing workflows.
-- 🤖 Building AI-powered applications using LLMs, RAG, LangChain, and Google Gemini.
-- 📊 Interested in data analytics, ETL pipelines, data engineering, and business intelligence.
-- ☁️ Exploring AWS, Docker, and scalable application development.
-- 🏆 Best Innovative Idea award at the SymbIOT Hackathon.
-- 🎯 Open to opportunities in Python Development, Full-Stack Development, Backend Engineering, Data Analytics, Data Engineering, ETL Development, AI Engineering, and GenAI Engineering.
+- 🎓 Computer Science Engineering graduate from Don Bosco Institute of Technology, Bengaluru.
+- 🐍 Interested in Python development, backend engineering, and full-stack application development.
+- ⚙️ Experienced in building REST APIs and backend applications using Python, Django, FastAPI, and SQLAlchemy.
+- 🗄️ Skilled in relational database design, SQL queries, CRUD operations, and MySql/PostgreSQL.
+- 🤖 Exploring Generative AI, LLMs, LangChain, and Retrieval-Augmented Generation (RAG) along with Evaluation.
+- 📊 Interested in Backen-end development and AI.
+- ☁️ Familiar with AWS fundamentals, Git, Github, Docker, Postman.
+- 🎯 Open to opportunities in Python Development, Backend Development, Software Engineering, and GenAI Engineering.
 
 ---
 
-## 💼 Experience
+## 💼 Internship Experience
 
 ### 🏢 AI/ML Intern — Samsung Innovation Campus
 
-- Developed a real-time hand gesture recognition system using Python, OpenCV, and MediaPipe.
-- Built image preprocessing and landmark extraction workflows for feature engineering.
-- Achieved approximately 95% accuracy across 26 hand gestures.
-- Implemented gesture-to-keyboard automation for touchless human-computer interaction.
-- Applied machine learning, computer vision, and real-time processing concepts.
+**Bengaluru | 2023**
 
-### 🏆 SymbIOT Hackathon — Best Innovative Idea
-
-- Developed a sustainability-focused web application using Python, Flask, HTML, CSS, JavaScript, Bootstrap, and MongoDB.
-- Implemented modules for energy consumption analysis, water conservation, and resource utilization.
-- Built a prototype within a 24-hour hackathon.
+- Completed hands-on training in Artificial Intelligence, Machine Learning, data processing, and computer vision.
+- Worked on a real-time hand gesture recognition system using Python, OpenCV, and MediaPipe.
+- Performed data preprocessing, normalization, feature extraction, and feature engineering.
+- Analyzed data-processing workflows and identified opportunities for performance improvement.
+- Participated in testing and validation to ensure expected application functionality.
+- Applied structured problem-solving and technical troubleshooting throughout the project.
 
 ---
 
 ## 🚀 Featured Projects
+### 🥩 MeatMart — AI-Assisted Full-Stack Meat E-Commerce Platform
+
+<badge color="success">Currently Building</badge>
+
+**Tech Stack:** Python, Django, Django REST Framework, PostgreSQL, HTML, CSS, JavaScript, AI Integration, Git, GitHub
+
+- Developing a full-stack e-commerce platform for a meat shop, providing customers with a convenient online shopping experience.
+- Implementing user registration, login, authentication, and password recovery functionality.
+- Building a product catalog with product details, pricing, quantity selection, and shopping cart management.
+- Developing cart and checkout workflows with delivery address management and payment integration.
+- Designing secure backend services and database models using Django and PostgreSQL.
+- Exploring AI-assisted features to improve product discovery, customer assistance, and the overall shopping experience.
+- Focusing on secure authentication, reliable order management, data integrity, and scalable application architecture.
+
+
+### 🏦 BankSphere — Full-Stack Digital Banking System with AI
+
+**Tech Stack:** Python, FastAPI, React, PostgreSQL, SQLAlchemy, JWT, Google Gemini, LangChain, RAG, Docker, Git
+
+- Developed a full-stack digital banking application with user authentication, account management, beneficiary management, and transaction tracking.
+- Designed and implemented RESTful APIs using FastAPI and SQLAlchemy.
+- Implemented secure fund transfers with balance validation, atomic database transactions, and debit-credit ledger entries.
+- Designed a PostgreSQL database schema to manage users, accounts, beneficiaries, transactions, and audit logs.
+- Integrated a GenAI-powered banking assistant using Google Gemini and RAG to answer banking-related queries using a curated knowledge base.
+- Implemented API testing, input validation, exception handling, and role-based access controls.
+- Containerized application components using Docker for consistent development and deployment.
 
 ### 🧠 Multimodal GenAI RAG Platform for Complex Documents
 
 **Tech Stack:** Python, FastAPI, Google Gemini API, LangChain, PostgreSQL, pgvector, Redis, Celery, PyMuPDF, Docker, JWT
 
-- Building a document intelligence platform for querying large PDFs using natural language.
-- Integrating multimodal AI to interpret document text, charts, images, and diagrams.
-- Designing APIs and asynchronous document-processing workflows.
-- Using vector search and retrieval-augmented generation to retrieve relevant document information.
-- Implementing JWT authentication and user-level document isolation.
+- Developed a document intelligence platform that enables users to upload large PDFs and ask natural-language questions about document content, charts, and diagrams.
+- Integrated Google Gemini multimodal models to extract and interpret information from embedded images, financial charts, and diagrams alongside document text.
+- Designed RESTful APIs using FastAPI to manage document uploads, processing workflows, and question-answering requests.
+- Implemented asynchronous document-processing tasks using Celery and Redis.
+- Utilized PostgreSQL with pgvector to store document embeddings and support semantic search for RAG.
+- Implemented JWT-based authentication and user-level data isolation to protect uploaded documents and conversation histories.
+- Containerized application components using Docker to support consistent development and deployment environments.
 
-### 🏦 BankSphere — Full-Stack Digital Banking Platform with GenAI
-
-**Tech Stack:** Python, FastAPI, React, PostgreSQL, SQLAlchemy, JWT, Gemini, LangChain, RAG, Pytest, Docker
-
-- Developing a simulated digital banking application with account management, transaction history, and beneficiary management.
-- Designing REST APIs and relational database models for banking operations.
-- Implementing secure simulated fund transfers with balance validation and transactional consistency.
-- Integrating a GenAI banking assistant grounded in a curated knowledge base.
-- Planning automated API testing and containerized deployment.
-
-### 📊 Sentiment Analysis of COVID-19 Tweets
-
-**Tech Stack:** Python, Pandas, NumPy, Machine Learning, NLP
-
-- Collected and processed 40,000+ tweets for sentiment analysis.
-- Performed exploratory data analysis to identify sentiment patterns and trends.
-- Compared Naive Bayes, SVM, Logistic Regression, Random Forest, and SGD classifiers.
-- Achieved 87% accuracy in binary sentiment classification.
-- Visualized results using word clouds, charts, and confusion matrices.
-
-### 📈 Customer Trend Analysis
-
-**Tech Stack:** Python, Pandas, SQL, Excel, Power BI
-
-- Cleaned and transformed customer transaction data using Python and SQL.
-- Conducted exploratory data analysis to identify customer behavior and purchasing trends.
-- Developed interactive Power BI dashboards to visualize business KPIs.
-- Derived data-driven insights to support customer segmentation and business analysis.
-
-### ✋ Real-Time Gesture Recognition System
+### ✋ Real-Time Hand Gesture Recognition System
 
 **Tech Stack:** Python, OpenCV, MediaPipe, Machine Learning
 
-- Developed a real-time gesture recognition system for touchless human-computer interaction.
-- Extracted hand landmarks and engineered features for gesture classification.
-- Achieved approximately 95% accuracy across 26 hand gestures.
-- Implemented gesture-to-keyboard automation.
+- Worked on a real-time hand gesture recognition solution for touchless human-computer interaction.
+- Implemented data preprocessing, normalization, and feature extraction workflows.
+- Used MediaPipe for hand landmark extraction and OpenCV for computer vision processing.
+- Applied machine learning concepts for gesture recognition.
+- Participated in testing, validation, and performance analysis.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" alt="Python Java JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Python Java"/>
 </p>
 
 ### ⚙️ Backend & Full-Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,html,css" alt="FastAPI Flask React HTML CSS"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react,html,css" alt="FastAPI Django React HTML CSS"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/REST%20APIs-0A66C2?style=for-the-badge" alt="REST APIs"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" alt="JWT"/>
 </p>
 
-### 🗄️ Databases & Data Engineering
+### 🗄️ Databases & Data Analysis
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="PostgreSQL MySQL Redis"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL MySQL"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-217346?style=for-the-badge" alt="ETL pipelines"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
-### 🤖 AI, Machine Learning & GenAI
+### 🤖 AI, Machine Learning & Generative AI
 
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
@@ -141,37 +137,49 @@ Building backend applications, data pipelines, and AI-powered solutions with Pyt
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe"/>
 </p>
 
-### ☁️ Tools & Platforms
+### ☁️ Cloud, Tools & Software Engineering
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,linux,aws" alt="Git GitHub Docker Jenkins Linux AWS"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux" alt="AWS Docker Git GitHub Linux"/>
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-007396?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge" alt="OOP"/>
+  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge" alt="DBMS"/>
+</p>
+
+**AWS Services:** EC2, S3, Lambda
 
 ---
 
-## 🌱 Currently Learning
+## 📜 Certifications & Training
 
-- Advanced Python and backend engineering
-- FastAPI application architecture and automated testing
-- PostgreSQL database design and transaction management
-- Full-stack application development with React
-- ETL pipelines and data engineering workflows
-- Retrieval-Augmented Generation and multimodal AI applications
-- Docker and cloud deployment
+### Python Full Stack with GenAI — Recursive Coders
 
----
+**September 2025 – August 2026**
 
-## 📊 GitHub Stats
+- Practical training in Python, Django, SQL, HTML, CSS, JavaScript, and Generative AI.
+- Developed Python applications using functions, modules, exception handling, and object-oriented programming.
+- Built backend applications and REST APIs using FastAPI.
+- Worked with SQL databases, queries, and CRUD operations.
+- Explored prompt engineering, LLM integration, and Retrieval-Augmented Generation.
+- Practiced frontend and backend integration to develop end-to-end web applications.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshith-b&show_icons=true&theme=tokyonight&hide_border=true" alt="Harshith's GitHub statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshith-b&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
-</p>
+### Java Full Stack Development — Pentagon Space
 
 ---
+
+## 🎓 Education
+
+**Bachelor of Engineering – Computer Science**
+
+Don Bosco Institute of Technology, Bengaluru
+
+December 2020 – July 2024
+
+**GPA:** 7.97 / 10
+
 
 ## 📫 Connect With Me
 
@@ -191,4 +199,4 @@ Building backend applications, data pipelines, and AI-powered solutions with Pyt
 
 ## 💡 My Philosophy
 
-> Build reliable software, turn data into insights, and use AI to solve meaningful problems.
+> Build reliable software, solve real-world problems, turn data into insights, and leverage AI to create meaningful solutions.</p>
